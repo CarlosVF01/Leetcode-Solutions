@@ -1,4 +1,4 @@
-package from1900to2000;
+package from1901to2000;
 
 public class BuildArrayFromPermutation1920 {
     class Solution {
